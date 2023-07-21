@@ -1,0 +1,1 @@
+resource "aci_tenant" "importTenantHeroes" {}

@@ -1,0 +1,3 @@
+remote_target,remote_path,backup_frequency_hours
+44.200.209.206,/sftp/aci,8
+44.200.209.207,/sftp/aci,8
